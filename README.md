@@ -11,3 +11,9 @@ Completed User Stories:
 * [x] Edit feature added to the First Version, a click of an item in To Do list leads to the next activity [EditItemActivity] where you can edit that item and then Save and return to the [ToDoActivity] where your changes will be reflected and saved to file.
 
 Notes:  Extension to be added today. 
+
+Walkthrough of all user stories:
+
+![Video Walkthrough](filename)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
