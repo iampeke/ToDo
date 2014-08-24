@@ -14,6 +14,6 @@ Notes:  Extension to be added today.
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](filename)
+![Video Walkthrough](todobasic.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
