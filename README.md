@@ -16,4 +16,20 @@ Walkthrough of all user stories:
 
 ![Video Walkthrough](todobasic.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+Styling Modifications:
+
+* [x] Added a drawable for the buttons, with a pink gradient background coloring.
+* [x] Changed the app logo to an elephant
+* [x] Changed the app to be centered around the idea that an elephant never forgets
+* [x] Modified the text field and button width at the top of the Edit Activity [EditItemActivity] and added the elephant image again
+* [x] Remove the unused dropdown menu from the Activity Bar in the app.
+
+Walkthrough of the user stories with add ons:
+
+![Video Walkthrough](todoaddon.gif)
+
+
+GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+
+
