@@ -29,6 +29,15 @@ Walkthrough of the user stories with add ons:
 
 ![Video Walkthrough](todoaddon.gif)
 
+Basic Priorities (without styling):
+
+* [x] Added a custom ArrayAdapter to support priority information
+* [x] Added a custom class (```ToDoItem```) to help with representing the data in the to do list
+* [x] Added Checkbox to Edit View to allow users to change the priority of a to do item.
+
+Walkthrough of the user stories with basic priorities:
+
+![Video Walkthrough](toDoBasicPriorities.gif)
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
