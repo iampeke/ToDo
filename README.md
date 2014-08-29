@@ -39,6 +39,14 @@ Walkthrough of the user stories with basic priorities:
 
 ![Video Walkthrough](toDoBasicPriorities.gif)
 
+Started Working on Adding some Styling to the App with Basic Priorities:
+
+* [x] Modified some background drawables and colors and tinkered with padding on elements to create a different look and feel to the to do list activity.
+
+Walkthrough of the user stories with some styling.
+
+http://iampeke.com/files/CodePath/ToDoApp/toDoBasicPrioritiesSomeStyling.gif
+
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
 
